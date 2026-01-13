@@ -1,0 +1,104 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hello", "hey", "hi", "good morning", "how are you", "good afternoon", "sup", "whats good", "wussup"],
+      "responses": ["Yo bro, Feel free to ask any questions any time", "Good morning", "Good afternoon", "Im not writing your essay today"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["good bye", "salutations", "farewell", "bye bye", "cya", "bye", "adios", "see ya", "safe travels", "later"],
+      "responses": ["See ya broski", "Bye", "See you next time", "Good bye", "Later bro", "salutations", "Im never doing your math homework ever again"]
+    },
+    {
+      "tag": "How could I become the richest person in the world",
+      "patterns": ["rich", "money", "wealthy", "Elon Musk", "Powerful"],
+      "responses": ["You could get a job at a McDonalds or In-N-Out, as they can give out college tuition money", "Go to college, get your degree, and many companies will want to have you work for them", "Invest in stocks", "Invest in gold, as the price is almost always going up", "Buy silver, melt it down, form them into top notch, medical grade equipment, and sell them to hospitals for thousands of dollars"]
+    },
+    {
+      "tag": "Rocket League",
+      "patterns": ["better", "air control", "settings", "rocket league", "Zen", "air dribble"],
+      "responses": ["Rocket League is a game that combines soccer and cars to make an exciting and fun video game. Rocket League can go up to an 8-player game that you can play with your friends or other players online. Many pros take a lot of time to get as good as they are now. Many players will change their binds to fit their playstyle. There are many videos online on how to do this, with other videos on how to play better and get as good as pros.", "You can watch videos on how to get better and get training packs to train your air control"]
+    },
+    {
+      "tag": "mustang",
+      "patterns": ["mustang", "ford mustang", "mustang gt", "5.0", "pony car"],
+      "responses": ["The Ford Mustang is an American muscle car famous for its V8 power, rear-wheel drive, and loud exhaust. It’s one of the most iconic cars in the world."]
+    },
+    {
+      "tag": "supra",
+      "patterns": ["supra", "toyota supra", "mk4 supra", "mk5 supra", "2jz"],
+      "responses": ["The Toyota Supra is a legendary Japanese sports car. The MK4 has the famous 2JZ engine known for insane horsepower potential, while the MK5 has modern tech and BMW engineering."]
+    },
+    {
+      "tag": "gtr",
+      "patterns": ["gtr", "nissan gtr", "r35", "godzilla"],
+      "responses": ["The Nissan GTR (R35), nicknamed 'Godzilla,' is known for crazy acceleration, all-wheel drive, and a twin-turbo V6. It's one of the fastest accelerating cars ever."]
+    },
+    {
+      "tag": "lamborghini",
+      "patterns": ["lamborghini", "lambo", "huracan", "aventador", "lambo"],
+      "responses": ["Lamborghinis are supercars famous for sharp designs, V10/V12 engines, and extreme performance. Popular models include the Huracán and Aventador."]
+    },
+    {
+      "tag": "tesla",
+      "patterns": ["tesla", "model 3", "model y", "model s", "electric car", "tesla"],
+      "responses": ["Teslas are electric cars known for instant acceleration, autopilot, and quiet driving. The Model S Plaid is one of the quickest production cars on Earth."]
+    },
+    {
+      "tag": "bmw",
+      "patterns": ["bmw", "m3", "m4", "bimmer", "m series"],
+      "responses": ["BMW M cars are wild — sharp handling, loud pops, and pure disrespect on wheels."]
+    },
+    {
+      "tag": "mercedes",
+      "patterns": ["mercedes", "amg", "c63", "e63", "benz"],
+      "responses": ["AMG is basically luxury wrapped around a rocket engine — fast, loud, and aggressive."]
+    },
+    {
+      "tag": "dodge",
+      "patterns": ["challenger", "charger", "hellcat", "scat pack", "dodge"],
+      "responses": ["Hellcats are basically tanks with 700+ hp — loud, supercharged chaos on wheels."]
+    },
+    {
+      "tag": "chevy",
+      "patterns": ["camaro", "corvette", "z06", "chevy", "c8"],
+      "responses": ["Corvettes like the C8 give supercar performance for a fraction of the price."]
+    },
+    {
+      "tag": "bugatti",
+      "patterns": ["bugatti", "chiron", "veyron", "bugatti"],
+      "responses": ["Bugattis are hypercars with quad-turbo W16s — only billionaires apply."]
+    },
+    {
+      "tag": "ferrari",
+      "patterns": ["ferrari", "458", "488", "laferrari", "ferrari"],
+      "responses": ["Ferraris are pure Italian engineering — high revs, sharp handling, and iconic sound."]
+    },
+    {
+      "tag": "honda",
+      "patterns": ["honda", "civic", "type r", "accord", "honda"],
+      "responses": ["Honda Civics last longer than most friendships — reliable, cheap, and tunable."]
+    },
+    {
+      "tag": "subaru",
+      "patterns": ["subaru", "wrx", "sti", "boxer engine", "subaru"],
+      "responses": ["Subaru WRX/STI models have that signature boxer rumble — rally DNA in a street car."]
+    },
+    {
+      "tag": "jeep",
+      "patterns": ["jeep", "wrangler", "gladiator", "offroad", "jeep"],
+      "responses": ["Jeeps are made for off-roading and mud — doors off, roof off, adventure mode on."]
+    },
+    {
+      "tag": "audi",
+      "patterns": ["audi", "audi r8", "quattro", "rs3", "rs7"],
+      "responses": ["Audi RS and R models mix luxury with insane speed — quattro grip goes crazy."]
+    },
+    {
+      "tag": "rolls_royce",
+      "patterns": ["rolls royce", "rolls", "phantom", "wraith", "ghost", "dawn", "spectre"],
+      "responses": ["Rolls-Royce is luxury on wheels — smooth, silent, hand-built, and made to make you feel like royalty."]
+    }
+  ]
+}
